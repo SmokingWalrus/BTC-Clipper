@@ -1,6 +1,7 @@
 # BTC-Clipper
 
 100% Credits to @NYAN-x-CAT
+100% FOR EDUCATIONAL PURPOSES ONLY
 
 I took his "BTC Grabber" & Edited some stuff.
 Im relativly new to C#, before i only coded in VB *shaking my head*   :shipit:
