@@ -14,5 +14,5 @@ What i edited:
 # FEEL FREE TO GIVE FEEDBACK OR CONTRIBUTE TOO
 
 Check NYAN-x-CAT Out:
-[GitHub Pages](https://github.com/NYAN-x-CAT)
+[NYAN-x-CAT's Github](https://github.com/NYAN-x-CAT)
 
