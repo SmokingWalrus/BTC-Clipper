@@ -1,6 +1,6 @@
 # BTC-Clipper
 
-100% Credits to @NYAN-x-CAT
+100% Credits to @github/NYAN-x-CAT
 100% FOR EDUCATIONAL PURPOSES ONLY
 
 I took his "BTC Grabber" & Edited some stuff.
