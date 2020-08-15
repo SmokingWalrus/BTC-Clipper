@@ -1,0 +1,9 @@
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\bin\Debug\BTC Clipper.exe.config
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\bin\Debug\BTC Clipper.exe
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\bin\Debug\BTC Clipper.pdb
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Debug\BTC Clipper.csprojAssemblyReference.cache
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Debug\BTC_Clipper.Properties.Resources.resources
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Debug\BTC Clipper.csproj.GenerateResource.cache
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Debug\BTC Clipper.csproj.CoreCompileInputs.cache
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Debug\BTC Clipper.exe
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Debug\BTC Clipper.pdb

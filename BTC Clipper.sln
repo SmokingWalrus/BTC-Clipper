@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTC Clipper", "BTC Clipper\BTC Clipper.csproj", "{187B3B12-185D-4CA8-B198-F8FFF0105727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187B3B12-185D-4CA8-B198-F8FFF0105727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187B3B12-185D-4CA8-B198-F8FFF0105727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187B3B12-185D-4CA8-B198-F8FFF0105727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187B3B12-185D-4CA8-B198-F8FFF0105727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B821954B-DD82-465B-9CFD-1C0BD4DA9C64}
+	EndGlobalSection
+EndGlobal
